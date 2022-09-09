@@ -2,6 +2,10 @@
   font-family: Euclid, sans-serif;
 }
 
+body {
+  background-color: #131825;
+}
+
 .center {
   display: block;
   text-decoration: none;
