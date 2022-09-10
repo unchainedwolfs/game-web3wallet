@@ -17,9 +17,9 @@ body {
 }
 
 #logo {
-  max-width: 125px;
-  max-height: 125px;
-  margin: 15px auto;
+  max-width: 130px;
+  max-height: 130px;
+  margin: 100px auto;
 }
 
 #logo img {
@@ -31,12 +31,15 @@ body {
   transition-duration: 200ms;
   opacity: 0;
   visibility: hidden;
+  color: antiquewhite;
 }
 
 #response-text.active {
   opacity: 1;
   visibility: visible;
+  color: antiquewhite;
 }
+
 
 #response-button {
   border: none;
